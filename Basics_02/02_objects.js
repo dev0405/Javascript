@@ -62,3 +62,5 @@ const course={
 }
 const {duration}=course
 console.log(duration)
+const {price}=course
+console.log(price);
