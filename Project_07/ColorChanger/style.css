@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#outer{
+    text-align: center;
+}
+
+span{
+    display: block;
+}
+
+#heading{
+    margin-bottom: 50px;
+    padding: 50px;
+}
+
+.button{
+    height: 100px;
+    width: 100px;
+    border: solid black 2px;
+    display: inline-block;
+}
+
+h2{
+    padding-top: 30px;
+}
+
+#grey {
+  background: grey;
+}
+
+#red {
+  background: red;
+}
+#white {
+  background: white;
+}
+#yellow {
+  background: yellow;
+}
